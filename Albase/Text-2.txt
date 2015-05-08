@@ -1,0 +1,310 @@
+Life Policy - H236
+
+(Information taken from AES and Agent Database)
+
+Agent
+
+Servicing Agent 1	: 02362-5	- TAN ZHI
+
+Servicing Agent 2	:
+
+Appointed Servicing Agent :
+
+Pofic v Details
+
+Status
+
+Policy Dato
+
+AppL Onto
+
+Submit Date
+
+Modal Premium
+
+Pay LI p Dato
+
+Insured Address
+
+Owner Address
+
+: Inforce - Premium Paying
+
+: 01-Aug-2014
+
+: 09-May-2014
+
+: 12-May-2014
+
+: SS 1.00 (Inclusive of GST)
+
+: 01-Aug-2084
+
+: 760 PAS IR RIS STREET
+
+: 760 PASIR RIS STREET
+
+Contract Despatch Date
+
+Paid To Date
+
+Policy tssuo Dato
+
+: 30-Aug-2014
+
+: 01-Aug-2015
+
+: 29-Atig-2014
+
+SINGAPORE 510760
+
+SINGAPORE 510780
+
+Next Modal Premium
+
+Maturity Date
+
+Adjusted Premium
+
+Cumulative Premium
+
+Adjustment Percentage
+
+: S$ 1.00
+
+: 01-Aug-2084
+
+: S$ 1.00
+
+: 0.00%
+
+Insured	
+
+Namo	: TAN ZHI
+
+NRIC No.	: S83
+
+Dato of Birth	: 22-Sep-10
+
+Pavor	: TAN
+
+Owner	: TAN ZHI
+
+Payment Details	
+
+Payment Mode	; ANNUALLY
+
+Account Owner	: -
+
+First Pay Date	: ¥
+
+Entry Date	: -
+
+Gender	: MALE
+
+Issue Age	: 3
+
+Payment Method	:	¥
+
+Account No.	:	-
+
+BUI To Date	:	01-Aug-2015
+
+Maintenance Date	:	¥
+
+Coverage
+
+;/N|Plan Code
+
+1
+
+2
+
+Plan Name
+
+Effective Dato
+
+Sum Assured)
+
+3
+
+4
+
+AIASKAN8 ;AIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014	jnforce - Premium PayingjSEE CONTRACT
+
+Õ MASkiN8 !AIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014 |	Inforce - Premium PaylnglSEE CONTRACT
+
+AIASKCN8 JAIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014	inforce - Premium PayingjsEE CONTRACT
+
+A1ASKON8 jAIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014 A4 A i in OA 4 A	Inforce - Premium PayingjsEE CONTRACT 1	_ DfAMlum	AkfTDAPT
+
+AIASLBN8 lAIA HEALTHSHIELD GOLO \MAX ESSENTIAL A@(+Vii) 01-Aug-2014 Inforce - Premium Paying SEE CONTRACT
+
+7 AIASLCN8 [aIA HEALTHSHIELD GOLD \MAX ESSENTIAL A@(Wit)j 01-Aug-20i4[lnforce - Premium PaylnglSEE CONTRACT
+
+Ifil21
+
+The Payor NRIC. DOB & Gender Information's will be displayed subject to the data availability and applicable only if insured and payor are
+
+Premium Breakdown
+
+Show Minor Claims
+
+Giro Status
+
+Cheque Info
+2014-11-11 13:03:24.082 Albase[1872:131383] DownloadedData ---- Life Policy - H236
+
+(Information taken from AES and Agent Database)
+
+Agent
+
+Servicing Agent 1	: 02362-5	- TAN ZHI
+
+Servicing Agent 2	:
+
+Appointed Servicing Agent :
+
+Pofic v Details
+
+Status
+
+Policy Dato
+
+AppL Onto
+
+Submit Date
+
+Modal Premium
+
+Pay LI p Dato
+
+Insured Address
+
+Owner Address
+
+: Inforce - Premium Paying
+
+: 01-Aug-2014
+
+: 09-May-2014
+
+: 12-May-2014
+
+: SS 1.00 (Inclusive of GST)
+
+: 01-Aug-2084
+
+: 760 PAS IR RIS STREET
+
+: 760 PASIR RIS STREET
+
+Contract Despatch Date
+
+Paid To Date
+
+Policy tssuo Dato
+
+: 30-Aug-2014
+
+: 01-Aug-2015
+
+: 29-Atig-2014
+
+SINGAPORE 510760
+
+SINGAPORE 510780
+
+Next Modal Premium
+
+Maturity Date
+
+Adjusted Premium
+
+Cumulative Premium
+
+Adjustment Percentage
+
+: S$ 1.00
+
+: 01-Aug-2084
+
+: S$ 1.00
+
+: 0.00%
+
+Insured	
+
+Namo	: TAN ZHI
+
+NRIC No.	: S83
+
+Dato of Birth	: 22-Sep-10
+
+Pavor	: TAN
+
+Owner	: TAN ZHI
+
+Payment Details	
+
+Payment Mode	; ANNUALLY
+
+Account Owner	: -
+
+First Pay Date	: ¥
+
+Entry Date	: -
+
+Gender	: MALE
+
+Issue Age	: 3
+
+Payment Method	:	¥
+
+Account No.	:	-
+
+BUI To Date	:	01-Aug-2015
+
+Maintenance Date	:	¥
+
+Coverage
+
+;/N|Plan Code
+
+1
+
+2
+
+Plan Name
+
+Effective Dato
+
+Sum Assured)
+
+3
+
+4
+
+AIASKAN8 ;AIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014	jnforce - Premium PayingjSEE CONTRACT
+
+Õ MASkiN8 !AIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014 |	Inforce - Premium PaylnglSEE CONTRACT
+
+AIASKCN8 JAIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014	inforce - Premium PayingjsEE CONTRACT
+
+A1ASKON8 jAIA HEALTHSHIELD GOLD \MAX A@	01-Aug-2014 A4 A i in OA 4 A	Inforce - Premium PayingjsEE CONTRACT 1	_ DfAMlum	AkfTDAPT
+
+AIASLBN8 lAIA HEALTHSHIELD GOLO \MAX ESSENTIAL A@(+Vii) 01-Aug-2014 Inforce - Premium Paying SEE CONTRACT
+
+7 AIASLCN8 [aIA HEALTHSHIELD GOLD \MAX ESSENTIAL A@(Wit)j 01-Aug-20i4[lnforce - Premium PaylnglSEE CONTRACT
+
+Ifil21
+
+The Payor NRIC. DOB & Gender Information's will be displayed subject to the data availability and applicable only if insured and payor are
+
+Premium Breakdown
+
+Show Minor Claims
+
+Giro Status
+
+Cheque Info

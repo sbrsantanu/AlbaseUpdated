@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="14B25" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Entity" syncable="YES"/>
+    <entity name="Insurence" representedClassName="Insurence" syncable="YES">
+        <attribute name="addedDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="adjustedPremium" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="billToDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="insuredAddress" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="insurenceID" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="issueAge" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="maturityDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="modalPremium" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nextModalPremium" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nric" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="owner" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paidToDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentMode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="paymentMothod" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="payUpDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policyDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="NoteDetails" representedClassName="NoteDetails" syncable="YES">
+        <attribute name="addedon" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notedetails" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="noteid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="notestatus" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Person" representedClassName="Person" syncable="YES">
+        <attribute name="dateOfBirth" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="firstname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lastname" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="useremail" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userimage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userPhoneNumber" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Insurence" positionX="-191" positionY="-81" width="128" height="313"/>
+        <element name="NoteDetails" positionX="-315" positionY="54" width="128" height="105"/>
+        <element name="Person" positionX="-432" positionY="-52" width="108" height="163"/>
+        <element name="Entity" positionX="-315" positionY="54" width="128" height="45"/>
+    </elements>
+</model>

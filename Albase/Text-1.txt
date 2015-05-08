@@ -1,0 +1,202 @@
+Life Policy - H236
+
+(Information taken from AES and Agent Database)
+
+Agent
+
+Servicing Agent 1	: 02362-5	- TAN ZHI
+
+Servicing Agent 2	:
+
+Appointed Servicing Agent:
+
+Polic v Details
+
+Status	: Inforce - Premium Paying	Contract Despatch Date	: 30-Aug-2014
+
+Policy Dato	: 01-Aug-2014	Paid To Date	: 01-Aug-2015
+
+AppL Date	: 09-May-2014	Policy Issue Dato	: 29-Aug-20l4
+
+Submit Date	: 12-May-2014		
+
+Modal Premium	: S$	1.00 (Inclusive of GST)	Next Modal Premium	: SS 1.00
+
+Pay Up Dato	: 01-Aug-2084	Maturity Date	: 01-Aug-2084
+
+Insured Address	: 760 PASIR RIS STREET	SINGAPORE 510760 Adjusted Premium		: SS 1.00
+
+Owner Address	: 760 PASIR RIS STREET	SINGAPORE 510760	p^'lSga		: 0.00%
+
+Insured			
+
+Homo	: TAN ZHI	Gender	: MALE
+
+NRIC No,	: S83		
+
+Dato of Birth	: 22-Sep-19	Issue Age	: 3
+
+Payor	: TAN		
+
+Owner	: TAN ZHI		
+
+Pavment Details			
+
+Payment Mode	; ANNUALLY	Payment Method	: *
+
+Account Owner	: -	Account No.	* -
+
+First Pay Dato	е	Bill To Date	: 01-Aug-2015
+
+Entry Data	.* -	Malntonance Date	! -
+
+Coverage			
+
+╚/N|Plan Codo	jpian Name	|	Effective Date |Status	l Sum Assured)
+
+1 ? AIASKAN8 t	jAIA HEALTHSHIELD GOLD WAX A@	01-Aug-2014 Jlnforce - Premium PayingjsEE CONTRACT	
+
+AIASKBN8 AIA HEALTHSHIELD GOLD WAX A@
+
+3
+
+4
+
+AIASKCN8 'AIA HEALTHSHIELD GOLD \MAX A@
+
+AIASKDN8 (AIA HEALTHSHIELD GOLD WAX A@
+
+5
+
+6
+
+AIASLAN8 [AIA HEALTHSHIELD GOLD WAX ESSENTIAL A@(+Vil)
+
+01-Aug-2014 jlnforce - Premium PayingjsEE CONTRACT
+
+| 01-Aug-2014 Inforce- Premium Payin^SEE CONTRACT
+
+Inforca - Premium PayingjsEE CONTRACT
+
+01-Aug-2014 Inforce - Premium PayingfsEE CONTRACT
+
+AIASLBN8 AIA HEALTHSHIELD GOLD WAX ESSENTIAL A@(+Vit) 01 -Aug-2014
+
+?
+
+Inforce - Premium Paylnt SEE CONTRACT
+
+AIASLCN8 ~ AIA HEALTHSHIELD GOLD WAX ESSENTIAL A@(+Vrt)j 01-Aug-2014 Inforce - Premium PayingjsEE CONTRACT
+
+...  T . ....	.. ...	..	, . , ..╟., . 4 ,╟е .	. ╚ее е е е	е -* е е е е е е* е е
+
+lote:
+
+The Payor NRIC, DOB & Gender information's will be displayed subject to the data availability and applicable only if insured and payor ana dl
+
+Show Minor Claims
+
+Giro Status
+
+Cheque Info
+2014-11-11 12:54:01.393 Albase[1840:128998] DownloadedData ---- Life Policy - H236
+
+(Information taken from AES and Agent Database)
+
+Agent
+
+Servicing Agent 1	: 02362-5	- TAN ZHI
+
+Servicing Agent 2	:
+
+Appointed Servicing Agent:
+
+Polic v Details
+
+Status	: Inforce - Premium Paying	Contract Despatch Date	: 30-Aug-2014
+
+Policy Dato	: 01-Aug-2014	Paid To Date	: 01-Aug-2015
+
+AppL Date	: 09-May-2014	Policy Issue Dato	: 29-Aug-20l4
+
+Submit Date	: 12-May-2014		
+
+Modal Premium	: S$	1.00 (Inclusive of GST)	Next Modal Premium	: SS 1.00
+
+Pay Up Dato	: 01-Aug-2084	Maturity Date	: 01-Aug-2084
+
+Insured Address	: 760 PASIR RIS STREET	SINGAPORE 510760 Adjusted Premium		: SS 1.00
+
+Owner Address	: 760 PASIR RIS STREET	SINGAPORE 510760	p^'lSga		: 0.00%
+
+Insured			
+
+Homo	: TAN ZHI	Gender	: MALE
+
+NRIC No,	: S83		
+
+Dato of Birth	: 22-Sep-19	Issue Age	: 3
+
+Payor	: TAN		
+
+Owner	: TAN ZHI		
+
+Pavment Details			
+
+Payment Mode	; ANNUALLY	Payment Method	: *
+
+Account Owner	: -	Account No.	* -
+
+First Pay Dato	е	Bill To Date	: 01-Aug-2015
+
+Entry Data	.* -	Malntonance Date	! -
+
+Coverage			
+
+╚/N|Plan Codo	jpian Name	|	Effective Date |Status	l Sum Assured)
+
+1 ? AIASKAN8 t	jAIA HEALTHSHIELD GOLD WAX A@	01-Aug-2014 Jlnforce - Premium PayingjsEE CONTRACT	
+
+AIASKBN8 AIA HEALTHSHIELD GOLD WAX A@
+
+3
+
+4
+
+AIASKCN8 'AIA HEALTHSHIELD GOLD \MAX A@
+
+AIASKDN8 (AIA HEALTHSHIELD GOLD WAX A@
+
+5
+
+6
+
+AIASLAN8 [AIA HEALTHSHIELD GOLD WAX ESSENTIAL A@(+Vil)
+
+01-Aug-2014 jlnforce - Premium PayingjsEE CONTRACT
+
+| 01-Aug-2014 Inforce- Premium Payin^SEE CONTRACT
+
+Inforca - Premium PayingjsEE CONTRACT
+
+01-Aug-2014 Inforce - Premium PayingfsEE CONTRACT
+
+AIASLBN8 AIA HEALTHSHIELD GOLD WAX ESSENTIAL A@(+Vit) 01 -Aug-2014
+
+?
+
+Inforce - Premium Paylnt SEE CONTRACT
+
+AIASLCN8 ~ AIA HEALTHSHIELD GOLD WAX ESSENTIAL A@(+Vrt)j 01-Aug-2014 Inforce - Premium PayingjsEE CONTRACT
+
+...  T . ....	.. ...	..	, . , ..╟., . 4 ,╟е .	. ╚ее е е е	е -* е е е е е е* е е
+
+lote:
+
+The Payor NRIC, DOB & Gender information's will be displayed subject to the data availability and applicable only if insured and payor ana dl
+
+Show Minor Claims
+
+Giro Status
+
+Cheque Info
